@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://giaiphapthuonghieu.vn/daotaoseo-dao-tao-seo-website-thuc-hanh-du-an-seo-thuc-te.html?utm_source=google&utm_medium=Kh%C3%B4ng%20ph%E1%BA%A3i%20tr%E1%BA%A3%20ti%E1%BB%81n&utm_campaign=ads_trackling&utm_term=seo&utm_content=seo' target='_blank'><img src='https://https://scontent-hkg3-1.xx.fbcdn.net/hprofile-xlp1/v/t1.0-1/p160x160/1620465_237704643243334_7984259919791258271_n.png?oh=673e554f5c5e0ec3610211523de6f727&oe=57963352' width='500px'/>ÄĂ o táº¡o seo chuyĂªn sĂ¢u</a>. Há»c táº¡i nhĂ  Linh Nguyá»…n. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://http://www.cachnhietdonga.com/'><img src='https://https://scontent-hkg3-1.xx.fbcdn.net/hprofile-xlp1/v/t1.0-1/p160x160/1620465_237704643243334_7984259919791258271_n.png?oh=673e554f5c5e0ec3610211523de6f727&oe=57963352' width='500px'/>ÄĂ o táº¡o seo chuyĂªn sĂ¢u</a>. Há»c táº¡i nhĂ  Linh Nguyá»…n. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
